@@ -1,21 +1,21 @@
 #EXTM3U 
 #EXTINF:-1,SBS 
-http://218.234.27.194:9981/stream/channelid/1493172302 
+http://218.234.27.194:9981/stream/channelid/1493172302.m3u8
 #EXTINF:-1,KBS2 
-http://218.234.27.194:9981/stream/channelid/430928450 
+http://218.234.27.194:9981/stream/channelid/430928450.m3u8
 #EXTINF:-1,KBS1 
-http://218.234.27.194:9981/stream/channelid/296475043 
+http://218.234.27.194:9981/stream/channelid/296475043.m3u8
 #EXTINF:-1,MBC 
-http://218.234.27.194:9981/stream/channelid/6315575 
+http://218.234.27.194:9981/stream/channelid/6315575.m3u8
 #EXTINF:-1,Mnet 
-http://218.234.27.194:9981/stream/channelid/1642171328 
+http://218.234.27.194:9981/stream/channelid/1642171328.m3u8
 #EXTINF:-1,SBS F!L UHD 
-http://218.234.27.194:9981/stream/channelid/826553034 
+http://218.234.27.194:9981/stream/channelid/826553034.m3u8
 #EXTINF:-1,MBC MUSIC 
-http://218.234.27.194:9981/stream/channelid/663137463 
+http://218.234.27.194:9981/stream/channelid/663137463.m3u8
 #EXTINF:-1,NHK World Premium 
-http://218.234.27.194:9981/stream/channelid/1102296159 
+http://218.234.27.194:9981/stream/channelid/1102296159.m3u8
 #EXTINF:-1,NHK World Japan 
-http://218.234.27.194:9981/stream/channelid/1356803421 
+http://218.234.27.194:9981/stream/channelid/1356803421.m3u8
 #EXTINF:-1,tvN 
-http://218.234.27.194:9981/stream/channelid/1823142500
+http://218.234.27.194:9981/stream/channelid/1823142500.m3u8
