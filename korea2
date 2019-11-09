@@ -45,3 +45,5 @@ http://211.209.245.163:9981/stream/channelid/1366017354
 http://211.209.245.163:9981/stream/channelid/1858083470
 #EXTINF:-1,SPOTV+
 http://211.49.33.219:9801/stream/channelid/529424179
+#EXTINF:-1,성인채널
+http::/1.237.230.88:9981/stream/channelid/338398695
