@@ -43,3 +43,5 @@ http://211.209.245.163:9981/stream/channelid/1162609984
 http://211.209.245.163:9981/stream/channelid/1366017354
 #EXTINF:-1,FOX
 http://211.209.245.163:9981/stream/channelid/1858083470
+#EXTINF:-1,SPOTV+
+http://211.49.33.219:9801/stream/channelid/529424179
