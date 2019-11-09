@@ -1,21 +1,132 @@
-#EXTM3U 
-#EXTINF:-1,SBS 
-http://218.234.27.194:9981/stream/channelid/1493172302.m3u8
-#EXTINF:-1,KBS2 
-http://218.234.27.194:9981/stream/channelid/430928450.m3u8
-#EXTINF:-1,KBS1 
-http://218.234.27.194:9981/stream/channelid/296475043.m3u8
-#EXTINF:-1,MBC 
-http://218.234.27.194:9981/stream/channelid/6315575.m3u8
-#EXTINF:-1,Mnet 
-http://218.234.27.194:9981/stream/channelid/1642171328.m3u8
-#EXTINF:-1,SBS F!L UHD 
-http://218.234.27.194:9981/stream/channelid/826553034.m3u8
-#EXTINF:-1,MBC MUSIC 
-http://218.234.27.194:9981/stream/channelid/663137463.m3u8
-#EXTINF:-1,NHK World Premium 
-http://218.234.27.194:9981/stream/channelid/1102296159.m3u8
-#EXTINF:-1,NHK World Japan 
-http://218.234.27.194:9981/stream/channelid/1356803421.m3u8
-#EXTINF:-1,tvN 
-http://218.234.27.194:9981/stream/channelid/1823142500.m3u8
+#EXTINF:-1,**** KOREA*****
+
+#EXTINF:-1,South Korean: JTBC TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9164.m3u8
+#EXTINF:-1,South Korean: KBS Drama TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9158.m3u8
+#EXTINF:-1,South Korean: KBS Joy Joy Desk
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9159.m3u8
+#EXTINF:-1,South Korean: KBS Kids TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9161.m3u8
+#EXTINF:-1,South Korean: KBS W TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9160.m3u8
+#EXTINF:-1,South Korean: KBS1 TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9155.m3u8
+#EXTINF:-1,South Korean: KBS2
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9156.m3u8
+#EXTINF:-1,South Korean: KBSN Life TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9162.m3u8
+#EXTINF:-1,South Korean: KBSN Sports TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9157.m3u8
+#EXTINF:-1,South Korean: KTV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9173.m3u8
+#EXTINF:-1,South Korean: M20 TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9174.m3u8
+#EXTINF:-1,South Korean: MBC Sports+ TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9172.m3u8
+#EXTINF:-1,South Korean: MNET Music TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9163.m3u8
+#EXTINF:-1,South Korean: OCN TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9170.m3u8
+#EXTINF:-1,South Korean: TV ChoSun TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9165.m3u8
+#EXTINF:-1,South Korean: tvN TV station
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/9154.m3u8
+#EXTINF:-1,South Korean: Arte
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8604.m3u8
+#EXTINF:-1,South Korean: BBS TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8637.m3u8
+#EXTINF:-1,South Korean: Cchannel
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8632.m3u8
+#EXTINF:-1,South Korean: Channel A
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8576.m3u8
+#EXTINF:-1,South Korean: CJmall
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8622.m3u8
+#EXTINF:-1,South Korean: CPBC TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8629.m3u8
+#EXTINF:-1,South Korean: CTS
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8630.m3u8
+#EXTINF:-1,South Korean: EBS e HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8611.m3u8
+#EXTINF:-1,South Korean: EBS FM HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8612.m3u8
+#EXTINF:-1,South Korean: EBS FM2 HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8613.m3u8
+#EXTINF:-1,South Korean: EBS I HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8609.m3u8
+#EXTINF:-1,South Korean: EBS KIDS  HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8608.m3u8
+#EXTINF:-1,South Korean: EBS+2  HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8610.m3u8
+#EXTINF:-1,South Korean: EBS1  HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8606.m3u8
+#EXTINF:-1,South Korean: EBS2  HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8607.m3u8
+#EXTINF:-1,South Korean: Edaily TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8655.m3u8
+#EXTINF:-1,South Korean: FGTV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8633.m3u8
+#EXTINF:-1,South Korean: GCN
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8635.m3u8
+#EXTINF:-1,South Korean: Good TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8631.m3u8
+#EXTINF:-1,South Korean: GS MY SHOP
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8625.m3u8
+#EXTINF:-1,South Korean: GS SHOP
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8624.m3u8
+#EXTINF:-1,South Korean: Home & Shopping
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8627.m3u8
+#EXTINF:-1,South Korean: Hyundai Hmall
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8620.m3u8
+#EXTINF:-1,South Korean: IM Shopping
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8626.m3u8
+#EXTINF:-1,South Korean: K Shopping
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8628.m3u8
+#EXTINF:-1,South Korean: Super Action
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8593.m3u8
+#EXTINF:-1,South Korean: KBS World 24
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8579.m3u8
+#EXTINF:-1,South Korean: KCTV  CH05
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8597.m3u8
+#EXTINF:-1,South Korean: KCTV  CH07
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8599.m3u8
+#EXTINF:-1,South Korean: KCTV  CH20
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8600.m3u8
+#EXTINF:-1,South Korean: KCTV  CH21
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8598.m3u8
+#EXTINF:-1,South Korean: KFN TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8619.m3u8
+#EXTINF:-1,South Korean: Lotte Homeshopping
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8621.m3u8
+#EXTINF:-1,South Korean: MTN
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8590.m3u8
+#EXTINF:-1,South Korean: NS Home Shopping
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8623.m3u8
+#EXTINF:-1,South Korean: OBS Gyeongin TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8595.m3u8
+#EXTINF:-1,South Korean: OBS W
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8596.m3u8
+#EXTINF:-1,South Korean: Olympic Channel
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8614.m3u8
+#EXTINF:-1,South Korean: R Tomato TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8654.m3u8
+#EXTINF:-1,South Korean: RUTC TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8636.m3u8
+#EXTINF:-1,South Korean: SBS
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8580.m3u8
+#EXTINF:-1,South Korean: sbs cnbc
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8583.m3u8
+#EXTINF:-1,South Korean: SBS UBC
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8594.m3u8
+#EXTINF:-1,South Korean: STN Sports
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8615.m3u8
+#EXTINF:-1,South Korean: TV Chosun
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8588.m3u8
+#EXTINF:-1,South Korean: WBC
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8618.m3u8
+#EXTINF:-1,South Korean: Yes TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8592.m3u8
+#EXTINF:-1,South Korean: YTN Life
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8616.m3u8
+#EXTINF:-1,South Korean:BTN
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/8638.m3u8
