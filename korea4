@@ -5,6 +5,8 @@ http://211.49.33.219:9801/stream/channelid/1215100670
 http://211.49.33.219:9801/stream/channelid/1291712525
 #EXTINF:-1,KBS1
 http://211.49.33.219:9801/stream/channelid/1202999090
+#EXTINF:-1,KBS2
+http://211.209.245.163:9981/stream/channelid/1379052767
 #EXTINF:-1,MBC
 http://211.49.33.219:9801/stream/channelid/1458451512
 #EXTINF:-1,EBS
