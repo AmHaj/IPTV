@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,ARIRANG (Korea)
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:-1,PRESS_Tv
+rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16×9-SDh?ref=www.presstv.ir&USER=MTV%2520-%2520PTV%2520Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=1 pageUrl=http://kingtvlive.com/presstv.html
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Korea:韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1,Korea:韩国phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1,Korea:韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1,Korea:韩国phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1,Korea:韩国phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1,Korea:韩国phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1,Korea:韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,Korea:韩国phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1,Korea:韩国phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1,Korea:韩国phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1,Korea:韩国phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1,Korea:韩国phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1,Korea:韩国phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1,Korea:韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1,Korea:韩国phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1,Korea:韩国phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1,Korea:韩国phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1, [COLOR orangered] Korea Okadai +18 [/COLOR]
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
